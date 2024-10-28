@@ -1,0 +1,40 @@
+sudo chmod -R 777 /usr/local/llm-ix/llm-waterford/bot/src
+
+
+
+sudo chmod -R 777 /usr/local/llm-ix/llm-waterford/bot/src/assets
+
+
+
+sudo chmod -R 777 /usr/local/llm-ix/llm-waterford/bot/src/assets/css
+
+
+
+sudo chmod -R 777 /usr/local/llm-ix/llm-waterford/bot/src/assets/svg
+
+
+
+sudo chmod -R 777 /usr/local/llm-ix/llm-waterford/bot/src/assets/theme
+
+
+
+sudo chmod -R 777 /usr/local/llm-ix/llm-waterford/bot/src/container
+
+
+
+sudo chmod -R 777 /usr/local/llm-ix/llm-waterford/bot/src/container/chatbox
+
+
+
+sudo chmod -R 777 /usr/local/llm-ix/llm-waterford/bot/src/container/chatbox/components
+
+
+
+sudo chmod -R 777 /usr/local/llm-ix/llm-waterford/bot/src/container/historyBar
+
+
+
+sudo chmod -R 777 /usr/local/llm-ix/llm-waterford/bot/src/container/historyBar/components
+
+
+https://assets-usa.mkt.dynamics.com/3b2a70bc-2336-4029-ac25-d503a09891cc/digitalassets/standaloneforms/a67fc361-5b04-ef11-9f89-7c1e520027c7
